@@ -1,0 +1,16 @@
+{
+	"META": {
+		"repoName": "Kajitsu Repo",
+		"repoIcon": "https://p16-va-tiktok.ibyteimg.com/obj/musically-maliva-obj/56f4ab72da9c2f03f9dbbe9f42aab933.png"
+	},
+	"Tweaked": [{
+		"name": "TikTok LRD",
+		"version": "29.5.0",
+		"down": "https://psv4.userapi.com/c240331/u534409328/docs/d31/21631eff1288/TikTok_LRD_29_5_0_-_skergg.ipa",
+		"category": "Tweaked Apps",
+		"description": "TikTok in Russia",
+		"bundleID": "com.zhiliaoapp.musically",
+		"appstore": "com.zhiliaoapp.musically",
+	}
+	]
+}
