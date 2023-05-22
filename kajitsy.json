@@ -1,0 +1,16 @@
+{
+	"META": {
+		"repoName": "Kajitsu Repo",
+		"repoIcon": "https://lh3.google.com/u/0/d/1lvbZk22yMILLDNxZkuNPbFcJPAcQf7vI=w1920-h935-iv1"
+	},
+	"Tweaked": [{
+		"name": "TikTok LRD",
+		"version": "29.5.0",
+		"down": "https://psv4.userapi.com/c240331/u534409328/docs/d31/21631eff1288/TikTok_LRD_29_5_0_-_skergg.ipa",
+		"category": "Tweaked Apps",
+		"description": "TikTok in Russia",
+		"bundleID": "com.google.ios.youtube",
+		"appstore": "com.google.ios.youtube",
+	}
+	]
+}
